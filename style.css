@@ -35,12 +35,12 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #e7bebe; /* pink */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #820333; /* Blue */
+    background-color: #820333; 
     color: #ffffff;
 }
 
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #540032; /* Black */
+    background-color: #540032; 
     color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #2E112D; /* Dark Gray */
+    background-color: #2E112D; 
     color: #fff;
 }
 
