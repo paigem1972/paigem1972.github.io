@@ -8,6 +8,10 @@ body {
     color: ##660000;
 }
 
+nav {
+    background-color: #820333;
+}
+
 p {
     font-size: 16px;
 }
